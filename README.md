@@ -1,12 +1,8 @@
-[![bkaygusu's 42 stats](https://badge.mediaplus.ma/water/bkaygusu?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
+<center> [![bkaygusu's 42 stats](https://badge.mediaplus.ma/water/bkaygusu?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+</center>
 <h1 align="center">Hi 👋, I'm Berkan Kaygusuz</h1>
 - 🌱 I’m currently learning Javascript , C , Python 
-<br>
 
-[![bkaygusu's 42 stats](https://badge.mediaplus.ma/water/bkaygusu?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-<br>
 
 - 📫 How to reach me **berkankaygusuz41@outlook.com**
 
