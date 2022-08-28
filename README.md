@@ -1,3 +1,4 @@
+[![bkaygusu's 42 stats](https://badge.mediaplus.ma/water/bkaygusu?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <h1 align="center">Hi 👋, I'm Berkan Kaygusuz</h1>
 - 🌱 I’m currently learning **Javascript,C,Python**
@@ -16,4 +17,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/KaygusuzBK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KaygusuzBK" /></a></p><br><br> 
+
 [![bkaygusu's 42 stats](https://badge.mediaplus.ma/water/bkaygusu?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
