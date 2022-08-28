@@ -1,6 +1,6 @@
-
-<img src="https://badge.mediaplus.ma/water/bkaygusu?1337Badge=off&UM6P=off" alt="bkaygusu's 42 stats" /></a>
-
+<div align="center">
+<img src="https://badge.mediaplus.ma/water/bkaygusu?1337Badge=off&UM6P=off" alt="bkaygusu's 42 stats" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Berkan Kaygusuz</h1>
 - 🌱 I’m currently learning Javascript , C , Python 
