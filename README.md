@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Berkan Kaygusuz</h1>
 - 🌱 I’m currently learning Javascript , C , Python 
 
-
 - 📫 How to reach me **berkankaygusuz41@outlook.com**
 
 <h3 align="center">Connect with me:</h3>
