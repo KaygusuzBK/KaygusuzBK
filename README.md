@@ -19,6 +19,4 @@
 <h3 align="Center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/KaygusuzBK"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KaygusuzBK" /></a></p><br>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaygusuzBK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
