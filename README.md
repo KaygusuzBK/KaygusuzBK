@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://badge.mediaplus.ma/colorfulwaves/bkaygusu?1337Badge=off&UM6P=off" alt="bkaygusu's 42 stats" />
+https://42-project-badge.glitch.me/users/LOGIN42/projects
+/>
 
 <h1 align="center">Hi 👋, I'm Berkan Kaygusuz</h1>
 - 🌱 I’m currently learning Javascript , C , Python 
