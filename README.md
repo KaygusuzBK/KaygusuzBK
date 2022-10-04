@@ -1,7 +1,6 @@
 <div align="center">
 https://42-project-badge.glitch.me/users/LOGIN42/projects
-/>
-
+</div>
 <h1 align="center">Hi 👋, I'm Berkan Kaygusuz</h1>
 - 🌱 I’m currently learning Javascript , C , Python 
 
