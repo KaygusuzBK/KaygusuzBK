@@ -1,3 +1,5 @@
+
+
 <div class = "center"> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/stats?cursusId=21&coalitionId=undefined" alt="bkaygusu's 42 stats" /></a></div>
 
 <h1 align="center">Hi 👋, I'm Berkan Kaygusuz</h1>
@@ -6,7 +8,7 @@
 - 📫 How to reach me **berkankaygusuz41@outlook.com**
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="center">a
 <a href="https://twitter.com/kaygusuzbk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaygusuzbk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/berkan-kaygusuz-287b051b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkan-kaygusuz-287b051b1" height="30" width="40" /></a>
 <a href="https://instagram.com/kaygusuzbk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaygusuzbk" height="30" width="40" /></a>
