@@ -3,7 +3,7 @@
   <h1 align = "center">Hi 👋, I'm Berkan Kaygusuz</h1>
   <h3 align = "center">- 🌱 I’m currently learning Javascript , C , Python </h1>
 
-<h1 align = "center">  - 📫 How to reach me **berkankaygusuz41@outlook.com</h1>
+<h3 align = "center">  - 📫 How to reach me berkankaygusuz41@outlook.com</h3>
 
   <h3 align="center">Connect with me:</h3>
   <p align="center">a
