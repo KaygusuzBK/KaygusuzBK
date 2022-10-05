@@ -1,9 +1,9 @@
 <p align="center" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/stats?cursusId=21&coalitionId=233" alt="bkaygusu's 42 stats" > </p>
 
   <h1 align="center">Hi 👋, I'm Berkan Kaygusuz</h1>
-  - 🌱 I’m currently learning Javascript , C , Python 
+  <h1 align = "center">- 🌱 I’m currently learning Javascript , C , Python </h1>
 
-  - 📫 How to reach me **berkankaygusuz41@outlook.com**
+<h1 align = "center">  - 📫 How to reach me **berkankaygusuz41@outlook.com**</h1>
 
   <h3 align="center">Connect with me:</h3>
   <p align="center">a
