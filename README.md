@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaygusuzbk" alt="kaygusuzbk" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kaygusuzbk" target="blank"><img src="https://img.shields.io/twitter/follow/kaygusuzbk?logo=twitter&style=for-the-badge" alt="kaygusuzbk" /></a> </p>
-
 - 🔭 I’m currently working on [Yap-next](https://github.com/KaygusuzBK/yap-next)
 
 - 🌱 I’m currently learning **Development :)**
